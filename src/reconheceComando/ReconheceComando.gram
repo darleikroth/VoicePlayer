@@ -1,0 +1,10 @@
+#JSGF V1.0;
+
+/**
+/* Arquivo de gramática
+*/
+
+grammar reconheceComando;
+
+public <command> = ( music | one music | two music | next | break );
+

@@ -1,0 +1,7 @@
+# Netbeans
+nbproject/
+build/
+build.xml
+manifest.mf
+
+audio/
